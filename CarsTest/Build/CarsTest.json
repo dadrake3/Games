@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CarsTest.data.unityweb",
+"asmCodeUrl": "CarsTest.asm.code.unityweb",
+"asmMemoryUrl": "CarsTest.asm.memory.unityweb",
+"asmFrameworkUrl": "CarsTest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
